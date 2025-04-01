@@ -1,0 +1,3 @@
+name: CJS Library Build & Publish
+ 
+trigger:
